@@ -1,5 +1,11 @@
 Hello.
 
+# 1.Step
+
+a)Install Python 3.5.x
+b) open CMD 
+c) type in "pip3 install numpy"
+
 # Training process
 Training process
 
