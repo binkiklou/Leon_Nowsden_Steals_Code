@@ -1,5 +1,6 @@
 Hello.
-
+# WTF IS THAT
+Ok so this is not my crappy code, it´s leon´s nowsden ugly code. he litteraly stole it and i keep this repo as a propf
 # 1.Step
 
 a)Install Python 3.5.x
